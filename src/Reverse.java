@@ -9,5 +9,6 @@ public class Reverse {
         }
         System.out.println(reverse);
         System.out.println("Cod basariyla eklendi");
+        System.out.println("Cod basariyla eklendi");
     }
 }
