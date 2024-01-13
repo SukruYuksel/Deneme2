@@ -4,6 +4,7 @@ public class Reverse {
         String str1="abc";
         String reverse="";
         for (int i = str1.length()-1; i>=0 ; i--) {
+            System.out.println("wweerwe");
             reverse+=str1.charAt(i);
 
         }
